@@ -4,6 +4,10 @@
 
 这是一个基于PyQt5和TensorFlow开发的时间序列预测系统，使用LSTM和不同优化算法进行预测分析。该系统提供图形化界面，方便用户上传数据、训练模型和可视化结果。
 
+## 项目简介
+![image](https://github.com/user-attachments/assets/817d18fe-9a25-4846-8051-f0731996faa5)
+
+
 ## 功能特点
 
 - 支持多种数据格式导入
