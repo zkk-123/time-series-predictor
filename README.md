@@ -18,8 +18,10 @@
 
 由于可执行文件较大，我们提供了外部下载链接：
 
-- 百度网盘链接：[时间序列预测系统V1.0](https://pan.baidu.com/s/*****)
-- 提取码：****
+通过网盘分享的文件：TimeSeriesPredictor.zip
+
+-链接: https://pan.baidu.com/s/1rTNuoiZwiuxEoBVDuXd9ZQ?pwd=j2iu 
+-提取码: j2iu
 
 下载后解压缩，双击运行`TimeSeriesPredictor.exe`即可使用。
 
